@@ -107,13 +107,12 @@
       {
         "title": "Apna Bazaar (PyQT5)",
         "category": "",
-        "image": "snapchat.jpg"
-        //"url": "https://youtu.be/1kGISk5ft2w"
+        
       },
       {
         "title": "Messenger Clone (React JS)",
         "category": "",
-        "image": "gmail.jpg"
+        
       }
     ]
   },

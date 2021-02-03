@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Akshita Garg",
+    "occupation": "Software Engineer",
+    "description": "I take coaching calls",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Akshita! You might also know me as online instructor. I've been coding for over 2 years now. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained many students across the globe. Through live coaching sessions on Zoom, I have provided skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "akshitagarg15@gmail.com",
+    "phone": "+91 7404509903",
+    "address": {
+      "street": "",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zip": ""
+    },
+    "website": "https://drive.google.com/drive/u/0/my-drive",
+    "resumedownload": "https://drive.google.com/drive/u/0/my-drive",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC__NnsTS631TrUx2XAkFFMA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/akshita.garg.39",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akshita-garg-a927a8179",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akshitagarg15/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/akshitagarg15",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Haryana Engineering College under KUK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "June 2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Remote Trainer",
+        "years": "May 2019 - Present",
+        "description": "Teaching programming in different technologies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+      {
+        "title": "Tshirt Seller (MERN)",
+        "category": "",
+        "image": "1.png"
+      },
+      {
+        "title": "Tic tac toe (React JS)",
+        "category": "",
+        "image": "2.png"
+      },
+      {
+        "title": "Store Locator(JS)",
+        "category": "",
+        "image": "wireframe.png"
+        
+      },
+      {
+        "title": "Apna Bazaar (PyQT5)",
+        "category": "",
+        "image": "snapchat.jpg"
+        //"url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Messenger Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Pretty much experienced and enough teaching skill. Lesson material are all well-organized. Motivated on teaching. Very good knowledge on the subject. (This time Python) ",
+        "user": "Sugan Joshi"
+      },
+      {
+        "text": "I had very good experience to learn python with you mam. Thank you very much mam for your commitment towards my python classes.",
+        "user": "Arjun Kshestri"
+      }
+    ]
+  }
+}
